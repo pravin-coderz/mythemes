@@ -1,0 +1,14 @@
+/*****
+Theme Name: VeriMuchMe
+Theme URI: http://verimuchme.com/
+Author: Madebyfire team
+Author URI: http://www.madebyfire.com/
+Description: VeriMuchMe designed and developed by madebyfire team.
+Version: 1.0
+*****/
+.news,.blog-section,.partner-section{
+	background-color: transparent;
+}
+.news:before{
+	display: none;
+}
